@@ -2,6 +2,7 @@
 
 
 Using using IBM Cognos Analytics
+
 Download zip file
 
 Load and open the data module On the navigation panel of Cognos Analytics, select Team content
