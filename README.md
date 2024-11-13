@@ -1,7 +1,7 @@
 # Creating Dashboards Using IBM Cognos Analytics
 
 
-
+Using using IBM Cognos Analytics
 Create visualizations for the following captured KPI metrics: Download the file CarSalesByModelStart.xlsx
 
 TASK 1: Quantity Sold by Dealer ID - as a bar chart, sorted in either ascending or descending order of quantity sold, and change the chart title to Quantity Sold by Dealer ID (Hint: Use the pivot table on Sheet1, and use Format on the Chart tab to change the chart title)
@@ -14,7 +14,3 @@ TASK 4: Sum of Profits for Hudson model cars by Dealer ID - as a line chart, tit
 
 TASK 5: Save your workbook: Use Save As to save your completed workbook as CarSalesByModelEnd.xlsx
 
-using IBM Cognos Analytics
-download zip file
-load and open the data module On the navigation panel of Cognos Analytics, select Team content
-Save the PDF file **Creating Visualizations using Cognos Analytics_Dashboards.pdf**
